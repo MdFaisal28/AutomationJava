@@ -8,6 +8,6 @@ public class Lab017 {
         System.out.println(a+b);
 
 
-        
+
     }
 }
